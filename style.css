@@ -1,0 +1,13 @@
+@import
+url(https://cdn.jsdelivr.net/npm/@typopro/web-comic-neue@3.7.5/TypoPRO-ComicNeue-Bold.min.css);
+
+body 
+{
+    font-family: "Comic Sans MS",'TypoPRO Comic Neue';
+}
+
+#image-scale
+{
+  	width: 20%;
+  	height: auto;
+}
